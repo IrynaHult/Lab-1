@@ -1,0 +1,10 @@
+text = ('Hello world')
+name = ('Iryna')
+last_name = ('Hult')
+age = 16
+print(text)
+print(name, last_name, age)
+print(type(text))
+print(type(name))
+print(type(last_name))
+print(type(age))
